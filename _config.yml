@@ -4,5 +4,5 @@ description: ""
 show_excerpts: false
 
 header_pages:
-  - Images
-  - Web
+  - index.md
+  - kuvat.md
