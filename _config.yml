@@ -2,3 +2,7 @@ title: ""
 theme: minima
 description: ""
 show_excerpts: false
+
+header_pages:
+  - Images
+  - Web
