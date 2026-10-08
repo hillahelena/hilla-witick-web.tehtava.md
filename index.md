@@ -1,7 +1,5 @@
 ## <Hilla Witick> web-tehtävä
 
-[Kuvatehtävät.md
-
 Writing in Markdown is _not_ that hard!<br>
 I **will** complete these lessons!<br>
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"<br>
@@ -28,16 +26,6 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]: www.zombo.com
 [another fun place]: www.stumbleupon.com
 
-### Images
-
-![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)<br>
-![Black cat][Black]
-
-![Orange cat][Orange]
-
-[Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
-
-[Orange]: https://upload.wikimedia.org/wikipedia/commons/4/4f/Kitty_emoji.png
 
 ### Blockquotes
 
