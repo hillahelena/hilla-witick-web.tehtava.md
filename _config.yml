@@ -1,7 +1,6 @@
-title:
+title: ""
 theme: minima
-description:
-show_excerpts: false
+description: ""
 
 header_pages:
   - index.md
